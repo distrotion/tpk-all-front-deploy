@@ -90614,7 +90614,7 @@ i=i?B.L:B.i
 return A.aS(A.a([h,s,r,q,p,o,n,m,l,A.ad(new A.cO(k.Q,i,j),1)],t.p),B.l,B.o,B.m)}}
 A.DD.prototype={
 B(a){var s=null
-return A.aS(A.a([A.ad(new A.bd("MATCP",s),1),A.ad(new A.bd("CUS NAME",s),2),A.ad(new A.bd("PART NAME",s),1),A.ad(new A.bd("PART NO",s),1),A.ad(new A.bd("CHARG",s),1),A.ad(new A.bd("CUST LOT",s),1),A.ad(new A.bd("QTY",s),1),A.ad(new A.bd("STATUS",s),1)],t.p),B.l,B.o,B.m)}}
+return A.aS(A.a([A.ad(new A.bd("MATCP",s),1),A.ad(new A.bd("CUS NAME",s),2),A.ad(new A.bd("PART NAME/NO",s),1),A.ad(new A.bd("Material",s),1),A.ad(new A.bd("Received Lot",s),1),A.ad(new A.bd("Inspection Lot",s),1),A.ad(new A.bd("QTY",s),1),A.ad(new A.bd("STATUS",s),1)],t.p),B.l,B.o,B.m)}}
 A.DC.prototype={
 B(a){var s,r,q,p,o,n,m=this,l=null,k=m.Q,j=k?B.L:B.i
 j=A.ad(new A.kh(m.c,j,l),1)
